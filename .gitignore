@@ -1,0 +1,18 @@
+# Archivo de seguimiento interno - no subir a GitHub
+PROGRESS.md
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Notas personales
+notes.md
+TODO.md
+.private/
