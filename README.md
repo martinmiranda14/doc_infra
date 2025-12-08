@@ -25,7 +25,7 @@ Conceptos básicos, terminología y principios fundamentales de infraestructura 
 ### ✅ [02 - Contenedores](./02-contenedores/README.md)
 Docker, Kubernetes y orquestación de contenedores.
 
-**Estado:** ✅ Fundamentos completos (Docker ✅ 100%, Kubernetes ✅ 50% - fundamentos principales)
+**Estado:** ✅ Completo (Docker ✅ 100%, Kubernetes ✅ 100%)
 
 ### 🚧 03 - Cloud Computing
 Servicios y arquitecturas en AWS, Azure y GCP.
@@ -71,6 +71,6 @@ Documentación de uso libre para propósitos educativos y profesionales.
 
 ---
 
-**Última actualización:** 2025-11-25
+**Última actualización:** 2025-12-08
 
 > ⚙️ **Nota**: Este documento fue generado con asistencia de IA (Claude Code). Se recomienda revisar y validar el contenido antes de su uso en producción.
