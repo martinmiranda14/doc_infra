@@ -27,10 +27,10 @@ Docker, Kubernetes y orquestación de contenedores.
 
 **Estado:** ✅ Completo (Docker ✅ 100%, Kubernetes ✅ 100%)
 
-### 🚧 03 - Cloud Computing
+### 🚀 03 - Cloud Computing
 Servicios y arquitecturas en AWS, Azure y GCP.
 
-**Estado:** 🚧 Planificado
+**Estado:** 🚀 En progreso (Conceptos generales ✅, AWS fundamentos ✅)
 
 ### 🚧 04 - Redes y Seguridad
 Configuración de redes, firewalls, VPNs y seguridad.
