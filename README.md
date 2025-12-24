@@ -30,7 +30,7 @@ Docker, Kubernetes y orquestación de contenedores.
 ### 🚀 03 - Cloud Computing
 Servicios y arquitecturas en AWS, Azure y GCP.
 
-**Estado:** 🚀 En progreso (Conceptos generales ✅, AWS fundamentos ✅)
+**Estado:** 🚀 En progreso (Conceptos ✅, AWS ✅ Core completo, Azure iniciado)
 
 ### 🚧 04 - Redes y Seguridad
 Configuración de redes, firewalls, VPNs y seguridad.
